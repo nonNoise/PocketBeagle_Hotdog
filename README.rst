@@ -7,7 +7,7 @@ What is it?
 
 PocketBeagle Hotdog is 
 
-    PocketBeagle + USB-Host + RTC(DS1307) + Buzzer (+ SPI-FROM)
+*PocketBeagle + USB-Host + RTC(DS1307) + Buzzer (+ SPI-FROM)*
 
 
 Schematic
